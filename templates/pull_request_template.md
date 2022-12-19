@@ -19,6 +19,7 @@
 - [ ] Have you tested all screensizes?
 - [ ] Does it conform to the current practices and conventions in the project?
 - [ ] Did you make sure there's no console errors in the browser?
+- [ ] Have you tested your changes in Chromium Lighthouse?
 
 # Screenshots 📷
 ## Desktop 🖥️
